@@ -4,7 +4,7 @@
 
 > **The Solution**: A smart golf tracking app that not only records your scores but analyzes your performance patterns to pinpoint specific improvement areas and suggests targeted practice drills.
 
-[🎯 **Live Demo**](your-deployed-url-here) | [📱 **Mobile-Optimized Interface**](screenshot-link)
+[🎯 **Live Demo**](https://thomas-tahk.github.io/ez-golf/)
 
 ---
 
